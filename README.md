@@ -1,6 +1,6 @@
 # codecov.js
 
-Time Travel Tracer based DynamoRIO drcov coverage extraction
+Windows Time Travel Tracer based coverage extraction in drcov format
 
 Forked code from 0vercl0k and ctfhacker
 
